@@ -63,7 +63,7 @@ The example below will produce errors if java.util package or com.sun package is
 
 ## CI
 
-[![CircleCI](https://circleci.com/gh/hrkt/gohatto-j.svg?style=svg)](https://circleci.com/gh/hrkt/gohatto-j)
+[![CircleCI](https://circleci.com/gh/hrkt/gohatto-j/tree/master.svg?style=svg)](https://circleci.com/gh/hrkt/gohatto-j/tree/master)
 
 ## LICENSE
 
